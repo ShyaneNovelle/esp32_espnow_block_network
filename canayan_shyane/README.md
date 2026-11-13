@@ -21,7 +21,8 @@ My board heard 15 other unique MAC addresses on channel 1 during the block sessi
 
 ## 30-Second Screen Recording
 
-[canayan_serialmonitor.mp4](canayan_serialmonitor.mp4)
+https://github.com/user-attachments/assets/21a2f2d1-833e-4bf9-bbfd-d9440bcc2584
+
 
 ## Boards Heard (Owner / MAC Address)
 
